@@ -1,6 +1,4 @@
-Here's an enhanced, engaging, and professional GitHub profile README for **@DataWithAkash**. 
 
----
 
 # 👋 Hello, I’m Akash - Welcome to My Data Journey!
 
