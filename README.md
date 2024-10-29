@@ -1,7 +1,4 @@
 
-
-# ![DataWithAkash Intro Banner](https://via.placeholder.com/1000x250?text=Welcome+to+DataWithAkash+👋) <!-- Replace this URL with a custom GIF or animated SVG banner link -->
-
 ### 👋 Hello, I'm **Akash** – Welcome to My Data Journey!
 
 ---
@@ -61,5 +58,3 @@ When I'm not crunching numbers, I’m either exploring new tech trends or experi
 > 🚀 *“Turning data into actionable insights, one line of code at a time.”*
 
 ---
-
-Replace the banner placeholder with a custom GIF or animated SVG intro banner that reflects your brand or personality. You can create this image using tools like Canva, Adobe Spark, or any animated image editor. For colors, I’ve added professional tones like **#0D96F2** (blue), **#FEC260** (yellow), and **#42A5F5** (light blue) for subtle accents.
