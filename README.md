@@ -36,13 +36,6 @@ I'm a passionate **Data Scientist** dedicated to turning raw data into impactful
 
 ---
 
-### 📫 **How to Reach Me**
-Looking to connect, collaborate, or discuss data? Reach out here:
-
-- **Email**: [akash@datainsights.com](mailto:akash@datainsights.com)
-- **LinkedIn**: [DataWithAkash](https://www.linkedin.com/in/datawithakash)
-- **Twitter**: [@DataWithAkash](https://twitter.com/DataWithAkash)
-
 ---
 
 ### 😄 **Pronouns**
